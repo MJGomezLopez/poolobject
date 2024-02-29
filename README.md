@@ -21,10 +21,22 @@
     </li>
 </ul>
 
-<h2>Imágenes de Trabajo en equipo y CI</h2>
-![Cobertura desde Codecov](https://github.com/MJGomezLopez/poolobject/assets/128587635/5794ef4a-54ce-407a-8dc2-f7b88cf26630)
-![Cobertura desde JUnit - Eclipse](https://github.com/MJGomezLopez/poolobject/assets/128587635/19c3cb04-7318-43f8-818b-a6de2062fade)
-![Test pasados de GitHub Actions](https://github.com/MJGomezLopez/poolobject/assets/128587635/adaf93f7-6359-4940-86f8-60f43deb2c26)
+<h2>Imágenes</h2>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <div>
+        <img src="https://github.com/MJGomezLopez/poolobject/assets/128587635/5794ef4a-54ce-407a-8dc2-f7b88cf26630" alt="Cobertura desde Codecov" style="max-width: 300px;">
+        <p style="text-align: center;">Cobertura desde Codecov</p>
+    </div>
+    <div>
+        <img src="https://github.com/MJGomezLopez/poolobject/assets/128587635/19c3cb04-7318-43f8-818b-a6de2062fade" alt="Cobertura desde JUnit - Eclipse" style="max-width: 300px;">
+        <p style="text-align: center;">Cobertura desde JUnit - Eclipse</p>
+    </div>
+    <div>
+        <img src="https://github.com/MJGomezLopez/poolobject/assets/128587635/adaf93f7-6359-4940-86f8-60f43deb2c26" alt="Test pasados de GitHub Actions" style="max-width: 300px;">
+        <p style="text-align: center;">Test pasados de GitHub Actions</p>
+    </div>
+</div>
+
 
 
 
