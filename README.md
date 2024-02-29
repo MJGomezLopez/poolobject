@@ -5,7 +5,7 @@
 <h2>Resumen del Proceso de Prueba</h2>
 <ul>
     <li><strong>¿Se ha realizado trabajo en equipo?</strong>
-        <p>Sí, el trabajo se realizó en equipo, lo que permitió una colaboración efectiva para realizar las pruebas y mejorar la cobertura del proyecto.</p>
+        <p>Sí, el trabajo se realizó en equipo mediante, lo que permitió una colaboración efectiva para realizar las pruebas y mejorar la cobertura del proyecto ya que ambos estuvimos a la vez viendo el proyecto y dandonos ideas entre nosotros.</p>
     </li>
     <li><strong>¿Tiene calidad el conjunto de pruebas disponibles?</strong>
         <p>El conjunto de pruebas alcanzó una cobertura del 100% para las clases que se utilizan en el proyecto Java, las cuales son: DuplicatedInstanceException.java, NotFreeInstanceException.java, Reusable.java y ReusablePool.java.</p>
@@ -21,10 +21,14 @@
     </li>
 </ul>
 
-<h2>Imágenes de Commits y CI</h2>
-<p>A continuación, se adjuntan imágenes que muestran la actividad de commits en el repositorio:</p>
-<img src="ruta/imagen1.png" alt="Commit 1">
-<img src="ruta/imagen2.png" alt="Commit 2">
+<h2>Imágenes de Trabajo en equipo y CI</h2>
+![Cobertura desde Codecov](https://github.com/MJGomezLopez/poolobject/assets/128587635/5794ef4a-54ce-407a-8dc2-f7b88cf26630)
+![Cobertura desde JUnit - Eclipse](https://github.com/MJGomezLopez/poolobject/assets/128587635/19c3cb04-7318-43f8-818b-a6de2062fade)
+![Test pasados de GitHub Actions](https://github.com/MJGomezLopez/poolobject/assets/128587635/adaf93f7-6359-4940-86f8-60f43deb2c26)
+
+
+
+
 
 
 
