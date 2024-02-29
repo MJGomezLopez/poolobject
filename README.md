@@ -1,4 +1,15 @@
 <h1>Informe de Pruebas y Cobertura - Proyecto Java</h1>
+
+<div style="font-family: Arial, sans-serif; margin: 20px; padding: 0;">
+    <h2 style="color: #333; text-align: center;">Autores</h2>
+    <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
+        <p><strong>Autor:</strong> Jon Ander Incera Moreno</p>
+    </div>
+    <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; margin-top: 10px;">
+        <p><strong>Autor:</strong> Miguel José Gómez López</p>
+    </div>
+</div>
+
 <h2>Objetivos</h2>
 <p>El objetivo de este informe es evaluar la calidad del conjunto de pruebas, la cobertura del proyecto Java, y analizar el trabajo en equipo y el esfuerzo invertido en la actividad de prueba.</p>
 
@@ -36,6 +47,8 @@
         <p style="text-align: center;">Test pasados de GitHub Actions</p>
     </div>
 </div>
+
+
 
 
 
